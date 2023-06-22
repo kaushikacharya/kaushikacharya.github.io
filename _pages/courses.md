@@ -1,7 +1,7 @@
 ---
 permalink: /courses/
 title: "Courses"
-----
+---
 
 Here's a list of courses that I have completed:
 

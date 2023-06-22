@@ -11,4 +11,4 @@ title: "Home"
 
 Hi, I'm Kaushik Acharya, a graduate from IIT Kharagpur, working professionally as a Data Scientist. I am interested in Natural Language Processing.
 
-This personal webpage provides links to my [publications](/publications/)
+This personal webpage provides links to my [publications](/publications/) and the [courses](/courses/) that I have completed.

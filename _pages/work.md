@@ -1,7 +1,14 @@
 ---
-permakink: /work/
-title: "Work Experience"
+permalink: /miscellaneous/
+title: "Miscellaneous"
 ---
+
+## 10k run
+
+- I have participated in 10 km run in open category. Here are the certificates:
+  - [2012](/assets/run/10k_run_2012.pdf)
+  - [2013](/assets/run/10k_run_2013.pdf)
+  - [2014](/assets/run/10k_run_2014.pdf)
 
 ## Recognition@Work
 

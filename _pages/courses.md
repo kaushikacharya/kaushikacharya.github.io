@@ -14,6 +14,7 @@ Following are the list of online courses that I have completed:
 
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
+|[Introduction to Deep Learning & Neural Networks](https://github.com/kaushikacharya/Introduction_to_Deep_Learning_and_Neural_Networks)|AI Summer|Educative|2023|[Y](/assets/certificates/Educative_Introduction_to_Deep_Learning_and_Neural_Networks.pdf)|
 |[Deep Learning with PyTorch Step-by-Step: Part I - Fundamentals](https://github.com/kaushikacharya/course_programming_assignment/tree/master/Deep_Learning_Pytorch_Fundamentals_Educative)|Daniel Voigt Godoy|Educative|2023|[Y](/assets/certificates/Educative_Deep_Learning_with_PyTorch_Step-by-Step_Part_I_Fundamentals.pdf)|
 |[Machine Learning with NumPy, pandas, scikit-learn, and More](https://github.com/kaushikacharya/course_programming_assignment/tree/master/Machine_Learning_with_NumPy_Pandas_Scikit-Learn_Educative)|Adaptilab|Educative|2023|[Y](/assets/certificates/Educative_%20Machine_Learning_with_NumPy_Pandas_Scikit-learn.pdf)|
 |[Natural Language Processing with Deep Learning(CS224n)](https://github.com/kaushikacharya/Natural_Language_Processing_with_Deep_Learning_CS224n)|Stanford University|Stanford University|2019|

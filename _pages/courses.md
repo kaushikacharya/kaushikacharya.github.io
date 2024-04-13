@@ -23,6 +23,7 @@ Following are the list of online courses that I have completed:
 
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
+|[Building Applications with Vector Databases](https://github.com/kaushikacharya/Building_Applications_with_Vector_Databases)|Tim Tully|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/972895d1-c421-4f50-b594-de679a292e4f?usp=sharing)|
 |[Introduction to Deep Learning & Neural Networks](https://github.com/kaushikacharya/Introduction_to_Deep_Learning_and_Neural_Networks)|AI Summer|Educative|2023|[Y](/assets/certificates/Educative_Introduction_to_Deep_Learning_and_Neural_Networks.pdf)|
 |[Deep Learning with PyTorch Step-by-Step: Part I - Fundamentals](https://github.com/kaushikacharya/course_programming_assignment/tree/master/Deep_Learning_Pytorch_Fundamentals_Educative)|Daniel Voigt Godoy|Educative|2023|[Y](/assets/certificates/Educative_Deep_Learning_with_PyTorch_Step-by-Step_Part_I_Fundamentals.pdf)|
 |[Machine Learning with NumPy, pandas, scikit-learn, and More](https://github.com/kaushikacharya/course_programming_assignment/tree/master/Machine_Learning_with_NumPy_Pandas_Scikit-Learn_Educative)|Adaptilab|Educative|2023|[Y](/assets/certificates/Educative_%20Machine_Learning_with_NumPy_Pandas_Scikit-learn.pdf)|

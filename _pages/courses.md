@@ -46,6 +46,12 @@ Following are the list of online courses that I have completed:
 |:-------------|:---------------|:--------|:-----|:---|
 |[Weights & Biases 101](https://github.com/kaushikacharya/weights_and_biases/blob/main/101/README.md)| Weights & Biases|Weights & Biases|2023|[Y](/assets/certificates/Weights_and_Biases_101.pdf)|
 
+### LLMOps
+
+|Course        | Author         | Host    | Year | Certificate |
+|:-------------|:---------------|:--------|:-----|:---|
+|[LangChain for LLM Application Development](https://github.com/kaushikacharya/LangChain_for_LLM_Application_Development)| Harrison Chase, Andrew Ng|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/cc129a1b-3dc7-42ad-8c8f-de43558ed77a?usp=sharing)|
+
 ### Big Data
 
 |Course        | Author         | Host    | Year | Certificate |

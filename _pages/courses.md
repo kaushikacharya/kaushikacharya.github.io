@@ -38,6 +38,7 @@ Following are the list of online courses that I have completed:
 |[Knowledge Graphs for RAG](https://github.com/kaushikacharya/Knowledge_Graphs_for_RAG)|Andreas Kollegger|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/0cd0725e-ec55-46a1-8979-afad3822f385)|
 |[Large Language Models with Semantic Search](https://github.com/kaushikacharya/LLM_with_Semantic_Search)|DeepLearning.ai|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/017a6f9c-304e-4b3c-9f53-b12ddf82d2da?usp=sharing)|
 |[Generative AI with Large Language Models](https://github.com/kaushikacharya/generative_ai_with_llm)|DeepLearning.ai, Coursera|Coursera|2024|[Y](/assets/certificates/Coursera_Certificate_Generative_AI_with_Large_Language_Models.pdf)|
+|[Quantization Fundamentals with Hugging Face](https://github.com/kaushikacharya/Quantization_Fundamentals)|Younes Belkada, Marc Sun|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/48bbc617-1250-41da-a570-ea8735733aff)|
 |[How Diffusion Models Work](https://github.com/kaushikacharya/diffusion_models_deeplearning_ai)|DeepLearning.ai, Coursera|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/796d16e3-5ff2-44f7-9569-08b5f3697a62?usp=sharing)|
 |[Generative AI for Everyone](https://github.com/kaushikacharya/course_programming_assignment/tree/master/Generative_AI_for_Everyone)|Andrew Ng|Coursera|2023||
 

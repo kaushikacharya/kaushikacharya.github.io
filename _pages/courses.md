@@ -36,6 +36,7 @@ Following are the list of online courses that I have completed:
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
 |[Knowledge Graphs for RAG](https://github.com/kaushikacharya/Knowledge_Graphs_for_RAG)|Andreas Kollegger|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/0cd0725e-ec55-46a1-8979-afad3822f385)|
+|[Building Multimodal Search and RAG](https://github.com/kaushikacharya/Building_Multimodal_Search_and_RAG)|Sebastian Witalec|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/0a098c05-5a54-4c8d-9f3c-ea139b8b0ecb)|
 |[Large Language Models with Semantic Search](https://github.com/kaushikacharya/LLM_with_Semantic_Search)|DeepLearning.ai|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/017a6f9c-304e-4b3c-9f53-b12ddf82d2da?usp=sharing)|
 |[Generative AI with Large Language Models](https://github.com/kaushikacharya/generative_ai_with_llm)|DeepLearning.ai, Coursera|Coursera|2024|[Y](/assets/certificates/Coursera_Certificate_Generative_AI_with_Large_Language_Models.pdf)|
 |[Quantization in Depth](https://github.com/kaushikacharya/Quantization_in_Depth)|Younes Belkada, Marc Sun|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/8a976d57-e3df-425b-85cc-40cb1e7cdd6e)|

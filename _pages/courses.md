@@ -23,6 +23,7 @@ Following are the list of online courses that I have completed:
 
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
+|[Attention in Transformers: Concepts and Code in PyTorch](https://github.com/kaushikacharya/Attention_in_Transformers_Concepts_and_Code)|Josh Starmer|DeepLearning.ai|2025|[Y](https://learn.deeplearning.ai/accomplishments/a8924ab8-058d-4a1d-9dfa-e11bdb96e38a)|
 |[Building Applications with Vector Databases](https://github.com/kaushikacharya/Building_Applications_with_Vector_Databases)|Tim Tully|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/972895d1-c421-4f50-b594-de679a292e4f?usp=sharing)|
 |[Introduction to Deep Learning & Neural Networks](https://github.com/kaushikacharya/Introduction_to_Deep_Learning_and_Neural_Networks)|AI Summer|Educative|2023|[Y](/assets/certificates/Educative_Introduction_to_Deep_Learning_and_Neural_Networks.pdf)|
 |[Deep Learning with PyTorch Step-by-Step: Part I - Fundamentals](https://github.com/kaushikacharya/course_programming_assignment/tree/master/Deep_Learning_Pytorch_Fundamentals_Educative)|Daniel Voigt Godoy|Educative|2023|[Y](/assets/certificates/Educative_Deep_Learning_with_PyTorch_Step-by-Step_Part_I_Fundamentals.pdf)|

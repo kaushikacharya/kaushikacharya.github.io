@@ -36,6 +36,7 @@ Following are the list of online courses that I have completed:
 
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
+|[Efficiently Serving LLMs](https://github.com/kaushikacharya/Efficiently_Serving_LLMs)|Travis Addair|DeepLearning.ai|2025|[Y](https://learn.deeplearning.ai/accomplishments/33f7daa3-b1a8-455c-b929-f4b9b3641577)|
 |[How Transformer LLMs Work](https://github.com/kaushikacharya/How_Transformer_LLMs_Work)|Jay Alammar, Maarten Grootendorst|DeepLearning.ai|2025|[Y](https://learn.deeplearning.ai/accomplishments/6c02e097-b4f1-4912-8d14-f1a8399d75c7)|
 |[Preprocessing Unstructured Data for LLM Applications](https://github.com/kaushikacharya/Preprocessing_Unstructured_Data_for_LLM_Applications)|Matt Robinson|DeepLearning.ai|2025|[Y](https://learn.deeplearning.ai/accomplishments/ec2f7516-0344-4136-9468-fb64f24f103b)|
 |[Knowledge Graphs for RAG](https://github.com/kaushikacharya/Knowledge_Graphs_for_RAG)|Andreas Kollegger|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/0cd0725e-ec55-46a1-8979-afad3822f385)|

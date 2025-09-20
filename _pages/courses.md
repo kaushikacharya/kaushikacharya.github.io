@@ -48,23 +48,29 @@ Following are the list of online courses that I have completed:
 |[How Diffusion Models Work](https://github.com/kaushikacharya/diffusion_models_deeplearning_ai)|DeepLearning.ai, Coursera|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/796d16e3-5ff2-44f7-9569-08b5f3697a62?usp=sharing)|
 |[Generative AI for Everyone](https://github.com/kaushikacharya/course_programming_assignment/tree/master/Generative_AI_for_Everyone)|Andrew Ng|Coursera|2023||
 
+### LLM Agents
+
+|Course        | Author         | Host    | Year | Certificate |
+|:-------------|:---------------|:--------|:-----|:---|
+|[Foundation: Introduction to LangGraph](https://academy.langchain.com/certificates/43vxooxtrz)|Harrison Chase, Lance Martin|LangChain Academy|2025|[Y](/assets/certificates/LangChain_Academy_Foundation_Introduction_to_LangGraph.pdf)|
+
 ### MLOps
 
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
-|[Weights & Biases 101](https://github.com/kaushikacharya/weights_and_biases/blob/main/101/README.md)| Weights & Biases|Weights & Biases|2023|[Y](/assets/certificates/Weights_and_Biases_101.pdf)|
+|[Weights & Biases 101](https://github.com/kaushikacharya/weights_and_biases/blob/main/101/README.md)|Weights & Biases|Weights & Biases|2023|[Y](/assets/certificates/Weights_and_Biases_101.pdf)|
 
 ### LLMOps
 
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
-|[LangChain for LLM Application Development](https://github.com/kaushikacharya/LangChain_for_LLM_Application_Development)| Harrison Chase, Andrew Ng|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/cc129a1b-3dc7-42ad-8c8f-de43558ed77a?usp=sharing)|
+|[LangChain for LLM Application Development](https://github.com/kaushikacharya/LangChain_for_LLM_Application_Development)|Harrison Chase, Andrew Ng|DeepLearning.ai|2024|[Y](https://learn.deeplearning.ai/accomplishments/cc129a1b-3dc7-42ad-8c8f-de43558ed77a?usp=sharing)|
 
 ### Big Data
 
 |Course        | Author         | Host    | Year | Certificate |
 |:-------------|:---------------|:--------|:-----|:---|
-|[Distributed Machine Learning with Apache Spark (CS120x)](https://github.com/kaushikacharya/Distributed_Machine_Learning_with_Apache_Spark_CS120x_edx)|Ameet Talwalkar & Jon Bates (University of California, Berkeley)|EdX|2016|
+|[Distributed Machine Learning with Apache Spark (CS120x)](https://github.com/kaushikacharya/Distributed_Machine_Learning_with_Apache_Spark_CS120x_edx)|Ameet Talwalkar & Jon Bates (University of California, Berkeley)|EdX|2016||
 |Introduction to Data Science|Bill Howe (University of Washington)|Coursera|2013|[Y](/assets/certificates/Coursera_Certificate_Introduction_to_Data_Science.pdf)|
 
 ### Image Processing
